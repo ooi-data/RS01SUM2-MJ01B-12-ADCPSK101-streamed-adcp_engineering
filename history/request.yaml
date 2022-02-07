@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_engineering
-last_request: '2022-01-21T18:59:31.566155Z'
+last_request: '2022-02-07T18:17:36.852736Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SUM2-MJ01B-12-ADCPSK101-streamed-adcp_engineering/main/history/response.json
 status: discontinued
